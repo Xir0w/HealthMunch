@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Application Files\External\AnimatedSprite.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Files\External\Animation.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Files\External\Collision.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Files\Local\Game.cpp">
+      <Filter>Local</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Files\Local\Ghost.cpp">
+      <Filter>Local</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Files\Local\Helpers.cpp">
+      <Filter>Local</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Files\Local\Main.cpp">
+      <Filter>Local</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Files\Local\MazeData.cpp">
+      <Filter>Local</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Files\Local\Nodes.cpp">
+      <Filter>Local</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Files\Local\Player.cpp">
+      <Filter>Local</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Files\Local\Pellet.cpp">
+      <Filter>Local</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application Files\External\AnimatedSprite.hpp">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Files\External\Animation.hpp">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Files\External\Collision.hpp">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Files\Local\Game.hpp">
+      <Filter>Local</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Files\Local\Ghost.hpp">
+      <Filter>Local</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Files\Local\Helpers.hpp">
+      <Filter>Local</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Files\Local\MazeData.hpp">
+      <Filter>Local</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Files\Local\Nodes.hpp">
+      <Filter>Local</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Files\Local\Player.hpp">
+      <Filter>Local</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Files\Local\Pellet.hpp">
+      <Filter>Local</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="External">
+      <UniqueIdentifier>{a6342653-4172-4878-b993-5395406c1ee1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Local">
+      <UniqueIdentifier>{4782ef79-d1e7-40b0-91ad-72b8bbf34698}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{c2317cb3-68fb-47ec-95c0-cf7a09825b81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

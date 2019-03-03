@@ -1,0 +1,8 @@
+.vs/
+x32/
+X64/
+Debug/
+Release/
+.score
+*.db
+.DS_Store
